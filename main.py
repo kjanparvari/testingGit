@@ -16,5 +16,5 @@ if __name__ == '__main__':
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
 
-def time_travel():
-    print("hello")
+def time_travel2():
+    print("hello there")
